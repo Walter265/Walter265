@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Walter265
 - 👀 I’m interested in UI/UX design, scripting and coding
-- 🌱 I’m currently learning PHP, java and mobile app building using androidstudio
-- 💞️ I’m looking to collaborate on building a real estate website and mobile app
+- 🌱 I’m currently learning laravel, java and mobile app building using androidstudio
 - 📫 How to reach me temwa265@gmail.com
 
 <!---
